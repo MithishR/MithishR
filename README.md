@@ -1,8 +1,14 @@
-### 👋 Hi! I am Mithish!
+##
+👋 Hi! I am Mithish!
+
 🌱 I’m a second year Computer Science major and a Data Science minor @ The University of British Columbia
+
 🔭 I'm interested in AI, Data Science, Machine Learning and Web Development
+
 💬 I'm currently learning Java, JavaScript, Python, HTML, CSS and R.
+
 😄 My pronouns are he/him/his
+
 📫 You can reach me at mithish.geetha@ubc.ca
 
 <!--
