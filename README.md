@@ -1,4 +1,4 @@
-##
+###
 👋 Hi! I am Mithish!
 
 🌱 I’m a second year Computer Science major and a Data Science minor @ The University of British Columbia
