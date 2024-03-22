@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mithish</h1>
+``````````<h1 align="center">Hi 👋, I'm Mithish (he/him)</h1>
 <h3 align="center">I am a third year student majoring in Computer Science at UBC</h3>
 
 - 🔭 I’m currently working on [Communicado: E-ticketing platform](https://github.com/MithishR/Communicado)
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Full stack and web development projects**
+- 👯 I’m looking to collaborate on **Full stack and web developm````ent projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MithishR/](https://github.com/MithishR/)
 
