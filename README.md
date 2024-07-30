@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack, web development and data science projects**
 
-- 👨‍💻 All of my projects are available at [https://mithishr.github.io/personalwebsite/](https://mithishr.github.io/personalwebsite/)
+- 👨‍💻 All of my projects are available at [https://mithishravisankar.com](https://mithishravisankar.com)
 
 - 📫 How to reach me **mithishrg@gmail.com**
 
