@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mithish</h1>
-<h3 align="center">I am a fourth year student majoring in Computer Science at UBC</h3>
+<h3 align="center">I am a final year student majoring in Computer Science at UBC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithishr&label=Profile%20views&color=b04eaf&style=flat-square" alt="mithishr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithishr" alt="mithishr" /></a> </p>
 
-- 🔭 I’m currently working on [my personal website](https://mithishr.github.io/personalwebsite/)
+- 🔭 I’m currently working on a directed studies research project under Dr.Ramon Lawrence at UBC Okanagan.
 
-- 🌱 I’m currently learning **TensorFlow, scikit-learn and Blue Prism**
+- 🌱 I’m currently learning **TensorFlow, scikit-learn and LSTM models**
 
 - 👯 I’m looking to collaborate on **Full stack, web development and data science projects**
 
 - 👨‍💻 All of my projects are available at [https://mithishravisankar.com](https://mithishravisankar.com)
 
-- 📫 How to reach me **mithishrg@gmail.com**
+- 📫 How to reach me **mithish.work@gmail.com**
 
 - ⚡ Fun fact **I am a huge aviation geek!**
 
